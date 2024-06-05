@@ -1,8 +1,10 @@
-# Text Normalization Project
+# NormaLex
+
+## Text Normalization Project
 
 ## Description
 
-This project contains several text normalization and cleaning functions and classes written in Python. 
+NormaLex project contains several text normalization and cleaning functions and classes written in Python. 
 The goal of this project is to provide a set of tools for cleaning and normalizing text data, which is a crucial step in many Natural Language Processing tasks.
 
 ## Features
