@@ -41,3 +41,5 @@ Contributions are welcome!
 ## Code
 Code will be shared soon!
 
+Thanks for reading :) 
+
